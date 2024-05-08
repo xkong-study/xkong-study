@@ -60,8 +60,7 @@ Welcome to my page!
 
 ### 💬Contact Me
 
-- Gmail: xkong@tcd.ie
-
+- Gmail:
 
 ![Jiaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkong-study&show_icons=true&bg_color=00000000)
 <picture>
